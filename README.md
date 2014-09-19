@@ -12,6 +12,13 @@
 - [Memrise](http://www.memrise.com/)
 - [School of Data](http://schoolofdata.org/)
 - [Treehouse](https://teamtreehouse.com/)
+- [Future Learn](https://www.futurelearn.com/)
+- [MIT OpenCourseWare](http://ocw.mit.edu/courses/)
+- [Open Yale Courses](http://oyc.yale.edu/)
+- [Stanford Online](http://online.stanford.edu/)
+- [The Open University](http://www.open.ac.uk/)
+- [Alison](http://alison.com/)
+- [Open2Study](https://www.open2study.com/)
 
 ## Research
 
@@ -23,23 +30,37 @@
 - [Babbel](http://www.babbel.com/)
 - [Duolingo](https://www.duolingo.com/)
 
-## Skills
-
-- [Skills Matter](https://skillsmatter.com/)
-- [Skillshare](http://www.skillshare.com/)
-- [Code School](https://www.codeschool.com/)
-- [Udemy](https://www.udemy.com/)
-- [tuts+](http://tutsplus.com/)
-- [DIY](https://diy.org/)
-
 ## Books
 
+- [Leanpub](https://leanpub.com/)
 - [Manning](http://www.manning.com/)
 - [no starch press](http://www.nostarch.com/)
 - [O'Reilly](http://oreilly.com/)
 - [The Pragmatic Bookshelf](https://pragprog.com/)
 
-## Challenges
+## Skills General
+
+- [Skillshare](http://www.skillshare.com/)
+- [Udemy](https://www.udemy.com/)
+- [tuts+](http://tutsplus.com/)
+- [DIY Genius](http://www.diygenius.com/)
+- [DIY](https://diy.org/)
+- [Instinct](https://getinstinct.com/)
+- [Instructables](http://www.instructables.com/)
+- [Videojug](http://www.videojug.com/)
+- [Lynda](http://www.lynda.com/)
+
+## Skills Programming
+
+- [Codecademy](http://www.codecademy.com/)
+- [Code School](https://www.codeschool.com/)
+- [Skills Matter](https://skillsmatter.com/)
+- [Coderwall](https://coderwall.com/)
+- [Let’s Code: Test-Driven JavaScript](http://www.letscodejavascript.com/)
+- [Egghead](https://egghead.io/)
+- [NewCircle](https://thenewcircle.com/)
+
+## Programming Challenges
 
 - [CodeChef](http://www.codechef.com/)
 - [Hackerrank](https://www.hackerrank.com/)
@@ -48,6 +69,7 @@
 - [Rosalind](http://rosalind.info/)
 - [Codewars](http://www.codewars.com/)
 - [Code Combat](http://codecombat.com/)
+- [CodeEval](https://www.codeeval.com/)
 
 ## Questions and Answers
 
@@ -61,6 +83,7 @@
 ## Meta
 
 - [CourseTalk](http://www.coursetalk.com/)
+- [Metacademy](http://metacademy.org/)
 
 ## License
 

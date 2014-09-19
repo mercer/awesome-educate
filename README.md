@@ -29,6 +29,11 @@
 
 - [Babbel](http://www.babbel.com/)
 - [Duolingo](https://www.duolingo.com/)
+- [Livemocha](http://livemocha.com/)
+- [Busuu](http://www.busuu.com/)
+- [Rosetta Stone](http://www.rosettastone.eu/)
+- [Lingualia](http://www.lingualia.com/)
+- [Pimsleur](http://www.pimsleur.com/)
 
 ## Books
 

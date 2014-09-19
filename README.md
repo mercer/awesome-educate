@@ -18,7 +18,6 @@
 - [Stanford Online](http://online.stanford.edu/)
 - [The Open University](http://www.open.ac.uk/)
 - [Alison](http://alison.com/)
-- [Open2Study](https://www.open2study.com/)
 
 ## Research
 
@@ -29,19 +28,7 @@
 
 - [Babbel](http://www.babbel.com/)
 - [Duolingo](https://www.duolingo.com/)
-- [Livemocha](http://livemocha.com/)
-- [Busuu](http://www.busuu.com/)
-- [Rosetta Stone](http://www.rosettastone.eu/)
 - [Lingualia](http://www.lingualia.com/)
-- [Pimsleur](http://www.pimsleur.com/)
-
-## Books
-
-- [Leanpub](https://leanpub.com/)
-- [Manning](http://www.manning.com/)
-- [no starch press](http://www.nostarch.com/)
-- [O'Reilly](http://oreilly.com/)
-- [The Pragmatic Bookshelf](https://pragprog.com/)
 
 ## Skills General
 
@@ -53,7 +40,6 @@
 - [Instinct](https://getinstinct.com/)
 - [Instructables](http://www.instructables.com/)
 - [Videojug](http://www.videojug.com/)
-- [Lynda](http://www.lynda.com/)
 
 ## Skills Programming
 
@@ -64,6 +50,7 @@
 - [Let’s Code: Test-Driven JavaScript](http://www.letscodejavascript.com/)
 - [Egghead](https://egghead.io/)
 - [NewCircle](https://thenewcircle.com/)
+- [Desogner School](http://designer-school.com/)
 
 ## Programming Challenges
 
@@ -75,6 +62,7 @@
 - [Codewars](http://www.codewars.com/)
 - [Code Combat](http://codecombat.com/)
 - [CodeEval](https://www.codeeval.com/)
+- [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 
 ## Questions and Answers
 

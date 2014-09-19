@@ -9,9 +9,6 @@
 - [Udacity](https://www.udacity.com/)
 - [NovoED](https://novoed.com/)
 - [Khan Academy](https://www.khanacademy.org/)
-- [Memrise](http://www.memrise.com/)
-- [School of Data](http://schoolofdata.org/)
-- [Treehouse](https://teamtreehouse.com/)
 - [Future Learn](https://www.futurelearn.com/)
 - [MIT OpenCourseWare](http://ocw.mit.edu/courses/)
 - [Open Yale Courses](http://oyc.yale.edu/)
@@ -32,6 +29,8 @@
 
 ## Skills General
 
+- [Treehouse](https://teamtreehouse.com/)
+- [Memrise](http://www.memrise.com/)
 - [Skillshare](http://www.skillshare.com/)
 - [Udemy](https://www.udemy.com/)
 - [tuts+](http://tutsplus.com/)
@@ -43,6 +42,7 @@
 
 ## Skills Programming
 
+- [School of Data](http://schoolofdata.org/)
 - [Codecademy](http://www.codecademy.com/)
 - [Code School](https://www.codeschool.com/)
 - [Skills Matter](https://skillsmatter.com/)

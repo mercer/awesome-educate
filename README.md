@@ -51,7 +51,7 @@
 - [Let’s Code: Test-Driven JavaScript](http://www.letscodejavascript.com/)
 - [Egghead](https://egghead.io/)
 - [NewCircle](https://thenewcircle.com/)
-- [Desogner School](http://designer-school.com/)
+- [Designer School](http://designer-school.com/)
 
 ## Programming Challenges
 

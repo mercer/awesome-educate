@@ -52,6 +52,7 @@
 - [Egghead](https://egghead.io/)
 - [NewCircle](https://thenewcircle.com/)
 - [Designer School](http://designer-school.com/)
+- [Programmr] (http://www.programmr.com/)
 
 ## Programming Challenges
 

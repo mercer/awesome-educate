@@ -32,7 +32,6 @@
 - [Treehouse](https://teamtreehouse.com/)
 - [Memrise](http://www.memrise.com/)
 - [Skillshare](http://www.skillshare.com/)
-- [bloc](https://www.bloc.io/)
 - [Udemy](https://www.udemy.com/)
 - [tuts+](http://tutsplus.com/)
 - [DIY Genius](http://www.diygenius.com/)
@@ -53,7 +52,8 @@
 - [Egghead](https://egghead.io/)
 - [NewCircle](https://thenewcircle.com/)
 - [Designer School](http://designer-school.com/)
-- [Programmr] (http://www.programmr.com/)
+- [Programmr](http://www.programmr.com/)
+- [bloc](https://www.bloc.io/)
 
 ## Programming Challenges
 

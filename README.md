@@ -32,6 +32,7 @@
 - [Treehouse](https://teamtreehouse.com/)
 - [Memrise](http://www.memrise.com/)
 - [Skillshare](http://www.skillshare.com/)
+- [bloc](https://www.bloc.io/)
 - [Udemy](https://www.udemy.com/)
 - [tuts+](http://tutsplus.com/)
 - [DIY Genius](http://www.diygenius.com/)

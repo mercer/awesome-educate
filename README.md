@@ -80,6 +80,7 @@
 
 - [CourseTalk](http://www.coursetalk.com/)
 - [Metacademy](http://metacademy.org/)
+- [Sliderule](http://www.mysliderule.com/)
 
 ## License
 

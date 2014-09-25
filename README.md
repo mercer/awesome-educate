@@ -43,6 +43,7 @@
 ## Skills Programming
 
 - [School of Data](http://schoolofdata.org/)
+- [Exercism](http://exercism.io/)
 - [Codecademy](http://www.codecademy.com/)
 - [Code School](https://www.codeschool.com/)
 - [Skills Matter](https://skillsmatter.com/)

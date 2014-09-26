@@ -55,6 +55,7 @@
 - [Designer School](http://designer-school.com/)
 - [Programmr](http://www.programmr.com/)
 - [bloc](https://www.bloc.io/)
+- [Codementor](https://www.codementor.io/)
 
 ## Programming Challenges
 

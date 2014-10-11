@@ -57,6 +57,7 @@
 - [Programmr](http://www.programmr.com/)
 - [bloc](https://www.bloc.io/)
 - [Codementor](https://www.codementor.io/)
+- [Frontend Masters](https://frontendmasters.com/)
 
 ## Programming Challenges
 

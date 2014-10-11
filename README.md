@@ -58,6 +58,7 @@
 - [bloc](https://www.bloc.io/)
 - [Codementor](https://www.codementor.io/)
 - [Frontend Masters](https://frontendmasters.com/)
+- [CBT Nuggets](http://www.cbtnuggets.com/)
 
 ## Programming Challenges
 

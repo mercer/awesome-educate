@@ -49,6 +49,7 @@
 - [Code School](https://www.codeschool.com/)
 - [Skills Matter](https://skillsmatter.com/)
 - [Coderwall](https://coderwall.com/)
+- [CodePen](http://codepen.io/)
 - [Pluralsight](http://beta.pluralsight.com/)
 - [Let’s Code: Test-Driven JavaScript](http://www.letscodejavascript.com/)
 - [Egghead](https://egghead.io/)

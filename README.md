@@ -15,6 +15,9 @@
 - [Stanford Online](http://online.stanford.edu/)
 - [The Open University](http://www.open.ac.uk/)
 - [Alison](http://alison.com/)
+- [Open 2 Study](https://www.open2study.com/)
+- [iversity](https://iversity.org/)
+- [Canvas Network](https://www.canvas.net/)
 
 ## Research
 
@@ -87,6 +90,7 @@
 - [CourseTalk](http://www.coursetalk.com/)
 - [Metacademy](http://metacademy.org/)
 - [Sliderule](http://www.mysliderule.com/)
+- [Class Central](https://www.class-central.com)
 
 ## License
 

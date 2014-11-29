@@ -78,6 +78,19 @@
 - [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 - [The Matasano Crypto Challenges](http://cryptopals.com/)
 - [Mystery Twister C3](https://www.mysterytwisterc3.org/en/)
+- [Praetorian Bootcamp](http://www.praetorian.com/challenges/index.html)
+- [Coderbyte](http://coderbyte.com/)
+- [HackerEarth](http://www.hackerearth.com/challenges/)
+- [c0dility](https://codility.com/programmers/)
+- [Code Golf Community](https://codegolf.stackexchange.com/)
+- [Hacker.org](http://www.hacker.org/challenge/about.php)
+- [Pex](http://www.pexforfun.com/)
+- [Rankk](http://www.rankk.org/)
+- [4clojure](http://www.4clojure.com/)
+- [Python Challenge](http://www.pythonchallenge.com/)
+- [Programming Praxis](http://programmingpraxis.com/)
+- [ICFP Programming Contest](http://www.boundvariable.org/task.shtml)
+- [Ponder This](http://domino.research.ibm.com/comm/wwwr_ponder.nsf/pages/index.html)
 
 ## Questions and Answers
 

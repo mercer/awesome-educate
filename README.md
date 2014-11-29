@@ -76,6 +76,8 @@
 - [Code Combat](http://codecombat.com/)
 - [CodeEval](https://www.codeeval.com/)
 - [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+- [The Matasano Crypto Challenges](http://cryptopals.com/)
+- [Mystery Twister C3](https://www.mysterytwisterc3.org/en/)
 
 ## Questions and Answers
 

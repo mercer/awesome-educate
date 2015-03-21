@@ -64,6 +64,7 @@
 - [Codementor](https://www.codementor.io/)
 - [Frontend Masters](https://frontendmasters.com/)
 - [CBT Nuggets](http://www.cbtnuggets.com/)
+- [Platzi](https://courses.platzi.com/)
 
 ## Programming Challenges
 

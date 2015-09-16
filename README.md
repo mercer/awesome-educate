@@ -82,7 +82,7 @@
 - [Praetorian Bootcamp](http://www.praetorian.com/challenges/index.html)
 - [Coderbyte](http://coderbyte.com/)
 - [HackerEarth](http://www.hackerearth.com/challenges/)
-- [c0dility](https://codility.com/programmers/)
+- [c0d1l1ty](https://codility.com/programmers/)
 - [Code Golf Community](https://codegolf.stackexchange.com/)
 - [Hacker.org](http://www.hacker.org/challenge/about.php)
 - [Pex](http://www.pexforfun.com/)

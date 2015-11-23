@@ -66,6 +66,7 @@
 - [Frontend Masters](https://frontendmasters.com/)
 - [CBT Nuggets](http://www.cbtnuggets.com/)
 - [Platzi](https://courses.platzi.com/)
+- [Game of Hacks](http://www.gameofhacks.com/)
 
 ## Programming Challenges
 

@@ -46,7 +46,7 @@
 - [Videojug](http://www.videojug.com/)
 - [GradeStack](http://gradestack.com/)
 
-## Skills Programming
+## Skills Programming & Creative
 
 - [School of Data](http://schoolofdata.org/)
 - [Exercism](http://exercism.io/)
@@ -67,6 +67,7 @@
 - [CBT Nuggets](http://www.cbtnuggets.com/)
 - [Platzi](https://courses.platzi.com/)
 - [Game of Hacks](http://www.gameofhacks.com/)
+- [kelbyone](http://kelbyone.com/)
 
 ## Programming Challenges
 

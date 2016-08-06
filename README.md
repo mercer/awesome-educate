@@ -97,6 +97,7 @@
 - [Ponder This](http://domino.research.ibm.com/comm/wwwr_ponder.nsf/pages/index.html)
 - [Leetcode](https://leetcode.com)
 - [Free Code Camp](http://www.freecodecamp.com/challenges/)
+- [Kattis](http://open.kattis.com)
 
 ## Questions and Answers
 

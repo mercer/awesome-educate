@@ -19,6 +19,7 @@
 - [Open 2 Study](https://www.open2study.com/)
 - [iversity](https://iversity.org/)
 - [Canvas Network](https://www.canvas.net/)
+- [The Great Courses Plus](https://www.thegreatcoursesplus.com/)
 
 ## Research
 

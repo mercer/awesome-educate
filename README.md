@@ -20,6 +20,8 @@
 - [iversity](https://iversity.org/)
 - [Canvas Network](https://www.canvas.net/)
 - [The Great Courses Plus](https://www.thegreatcoursesplus.com/)
+- [Cybrary](https://www.cybrary.it/)
+
 
 ## Research
 
@@ -69,6 +71,7 @@
 - [Platzi](https://courses.platzi.com/)
 - [Game of Hacks](http://www.gameofhacks.com/)
 - [kelbyone](http://kelbyone.com/)
+- [Over the Wire](http://overthewire.org/wargames/)
 
 ## Programming Challenges
 

@@ -21,6 +21,7 @@
 - [Canvas Network](https://www.canvas.net/)
 - [The Great Courses Plus](https://www.thegreatcoursesplus.com/)
 - [Cybrary](https://www.cybrary.it/)
+- [Scaler Topics](https://www.scaler.com/topics/)
 
 
 ## Research

@@ -44,6 +44,7 @@
 - [tuts+](http://tutsplus.com/)
 - [DIY Genius](http://www.diygenius.com/)
 - [DIY](https://diy.org/)
+- [HVAC School Guide — Cost vs Metro Pay](https://hvacschoolguide.com/reports/hvac-training-cost-vs-pay) - Free BLS-sourced months-to-recoup table for evaluating HVAC trade-school ROI.
 - [Instinct](https://getinstinct.com/)
 - [Instructables](http://www.instructables.com/)
 - [Videojug](http://www.videojug.com/)

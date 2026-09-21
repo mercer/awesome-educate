@@ -46,6 +46,7 @@
 - [DIY](https://diy.org/)
 - [Instinct](https://getinstinct.com/)
 - [Instructables](http://www.instructables.com/)
+- [HVAC School Guide — Cost vs Metro Pay](https://hvacschoolguide.com/reports/hvac-training-cost-vs-pay) - Free months-to-recoup table for evaluating HVAC training ROI
 - [Videojug](http://www.videojug.com/)
 - [GradeStack](http://gradestack.com/)
 

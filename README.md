@@ -48,6 +48,7 @@
 - [Instructables](http://www.instructables.com/)
 - [Videojug](http://www.videojug.com/)
 - [GradeStack](http://gradestack.com/)
+- [QuizQuip](https://quizquip.com) - Free Singapore lower-secondary science revision: chapter notes, quizzes and original practice papers
 
 ## Skills Programming & Creative
 

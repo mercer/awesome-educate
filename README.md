@@ -32,7 +32,7 @@
 
 - [NASA's Eyes](https://eyes.nasa.gov/) - Free interactive 3D explorations of the Solar System, Earth, asteroids, and NASA spacecraft.
 - [PhET Interactive Simulations](https://phet.colorado.edu/) - Research-based interactive science and mathematics simulations with teaching resources.
-- [Space Atlas](https://saramjh.github.io/space_atlas_student/) - Free browser-based astronomy models for exploring Moon phases, Earth seasons, and cosmic scales.
+- [Space Atlas](https://spaceatlasedu.org/) - Free browser-based astronomy models for exploring Moon phases, Earth seasons, and cosmic scales.
 
 ## Languages
 

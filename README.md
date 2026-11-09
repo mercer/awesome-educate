@@ -28,6 +28,12 @@
 - [Research Gate](http://www.researchgate.net/)
 - [Science Exchange](https://www.scienceexchange.com/)
 
+## Interactive Science & Astronomy
+
+- [NASA's Eyes](https://eyes.nasa.gov/) - Free interactive 3D explorations of the Solar System, Earth, asteroids, and NASA spacecraft.
+- [PhET Interactive Simulations](https://phet.colorado.edu/) - Research-based interactive science and mathematics simulations with teaching resources.
+- [Space Atlas](https://spaceatlasedu.org/) - Moon-phase, Earth-season and cosmic-scale models for teacher-led previews. Uses Google Analytics 4 and AdSense; unsupervised browsing by children under 13 is not recommended ([privacy notice](https://spaceatlasedu.org/privacy/)).
+
 ## Languages
 
 - [Babbel](http://www.babbel.com/)

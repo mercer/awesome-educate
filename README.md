@@ -10,6 +10,7 @@
 - [Udacity](https://www.udacity.com/)
 - [NovoED](https://novoed.com/)
 - [Khan Academy](https://www.khanacademy.org/)
+- [AshuTeacher](https://ashuteacher.vercel.app) - Interactive AI Voice Blackboard, 195-country cascading syllabus academy (KG to Doctoral), PDF/photo exam solver, and 6-milestone Project, Thesis & Research Studio with live AI Viva Defense in 100+ languages.
 - [Future Learn](https://www.futurelearn.com/)
 - [MIT OpenCourseWare](http://ocw.mit.edu/courses/)
 - [Open Yale Courses](http://oyc.yale.edu/)
